@@ -1,0 +1,11 @@
+tabela-produtos{
+    background-color: blue;
+}
+th, tr {
+    border: solid 5px;
+}
+
+td {
+    border: dotted 5 px;
+
+    }
