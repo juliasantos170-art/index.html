@@ -1,1 +1,60 @@
+<DOCTYPE html>
+<head>
+     <meta charset="utf-8">
+     <meta name="viewport"
+          content="width=device-width,initial-scale=1.0>">
+     <title>listagem de produtos</title>
+     <link rel="stylesheet" href="./style.css">
+     </head>
+     <body>
+        <table class="tabela-produtos">
+           <thead>
+               <tr>
+                <th>codigo</th>
+                <th>descrição</th>
+                <th>estoque</th>
+                <th>unidadede medida</th>
+                <th>fornecedor<th>
+                </tr>
+             </thead>
+             <tbody>
+                 <tr>
+                    <td>55894</td>
+                    <td>copo plastico descatavel 500 ml</td>
+                    <td>3000</td>
+                    <td>mililitro</td>
+                    <td>zé dos copos</td>
+                 </tr>
 
+                 <tr>
+                    <td>55894</td>
+                    <td>copo plastico descatavel 500 ml</td>
+                    <td>3000</td>
+                    <td>mililitro</td>
+                    <td>zé dos copos</td>
+                 </tr>
+                 <tr>
+                    <td>55894</td>
+                    <td>copo plastico descatavel 500 ml</td>
+                    <td>3000</td>
+                    <td>mililitro</td>
+                    <td>zé dos copos</td>
+                 </tr>
+                 <tr>
+                    <td>55894</td>
+                    <td>copo plastico descatavel 500 ml</td>
+                    <td>3000</td>
+                    <td>mililitro</td>
+                    <td>zé dos copos</td>
+                 </tr>
+                <tr>
+                    <td>55894</td>
+                    <td>copo plastico descatavel 500 ml</td>
+                    <td>3000</td>
+                    <td>mililitro</td>
+                    <td>zé dos copos</td>
+                 </tr>
+                </tbody>
+              </table>
+            </body>
+          </html>
