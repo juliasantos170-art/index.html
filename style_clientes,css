@@ -1,0 +1,4 @@
+.tabela_c{
+    background-color: blueviolet;
+    font-size: 17pt;
+}
